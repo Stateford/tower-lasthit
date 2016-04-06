@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	maps			"towerlasthit"
+	"IsPlayable"	"1"
+	{
+					"MaxPlayers"                    "1"
+	}
+	"towerlasthit"
+	{
+					"MaxPlayers"                    "1"
+	}
+}
